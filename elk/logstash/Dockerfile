@@ -1,0 +1,1 @@
+FROM docker.elastic.co/logstash/elasticsearch:8.9.0
