@@ -18,5 +18,4 @@
             <Layout type="PatternLayout" pattern="${defaultpattern}"/>
         </Socket>
     </Appenders>
-
 </Configuration>
